@@ -4,6 +4,10 @@
 <!--
 **Animas-Ss/Animas-Ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p>I wish SmartyPants used named entities like
+<code>&amp;mdash;</code> instead of decimal-encoded
+entities like <code>&amp;#8212;</code>.</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
